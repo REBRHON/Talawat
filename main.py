@@ -36,7 +36,3 @@ async def ihd(client: Client, message: Message):
             ]
         )
     )
-
-#مبرمج الملف @Almortagel_12
-#مطور الملف @ELHYBA
-#جميع الحقوق محفوظه لسورس زد إي
